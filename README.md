@@ -1,5 +1,3 @@
-Here’s a sample README file for your live tracking app with attractive formatting and instructions. 🎉
-
 ---
 
 # 🌍 **LiveSphere** - Real-Time Location Tracking App
